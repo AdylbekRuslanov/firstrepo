@@ -1,0 +1,12 @@
+.center_div{
+    margin: 0 auto;
+    width:40%
+}
+
+label {
+    font-weight: bold;
+}
+
+table {
+    text-align: center;
+}
